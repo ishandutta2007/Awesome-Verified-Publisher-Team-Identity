@@ -25,6 +25,8 @@
 - [🔓 Open-Source Software & Toolkits](#-open-source-software--toolkits)
 - [📊 Feature Comparison Matrix](#-feature-comparison-matrix)
 - [🤝 Contributing Guidelines](#-contributing-guidelines)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#star-history)
 - [📜 License](#-license)
 
 ---
@@ -156,6 +158,23 @@ Contributions, suggestions, and corrections are welcome! To contribute a verifie
 2. 🌿 Create a feature branch: `git checkout -b feat/add-identity-tool`.
 3. 📝 Add your tool with project name, URL, exact pricing / free tier limits, or GitHub star count badge.
 4. 🚀 Submit a detailed Pull Request.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using **Awesome Verified Publisher & Team Identity**! 🙌  
+If this curation has been helpful to your team, research, or projects, please consider supporting the project:
+
+- ⭐ **Star** this repository on GitHub to help boost visibility!
+- 🍴 **Fork** and contribute tools, corrections, or benchmarks!
+- 📢 **Share** this list with fellow developers, security architects, and devops teams!
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing maintenance and new tools discovery, visit the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Your support is greatly appreciated!
+
+---
+
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Verified-Publisher-Team-Identity&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Verified-Publisher-Team-Identity&type=date&legend=top-left)
 
 ---
 
